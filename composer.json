@@ -1,0 +1,19 @@
+{
+    "name": "rrzi/commom-test",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bob",
+            "email": "349613156@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "rrzj\\commom\\":"src/"
+        }
+    }
+}
